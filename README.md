@@ -1,5 +1,5 @@
 <h1 align="Center">SRM-NetLogin</h1>
-<p align="Center">Automated Login API which automatically login into SRM Wifi</p>
+<p align="Center">(Automated Login API which automatically login into SRM Wifi)</p>
 
 ---
 
