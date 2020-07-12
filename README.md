@@ -11,7 +11,7 @@ The language that I used - Python
 
 - Import all these libraries  
 
-```
+```python
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
@@ -24,14 +24,14 @@ import time
 
 - Add your SRM-ID and Password   
 
-```
+```python
 usernameStr = ''
 passwordStr = ''
 ```
 
 - Then add the code to run the script _either with browser or browserless_ 
 
-```
+```python
 # headless - without opening browser 
 options = Options()
 options.headless = True
