@@ -1,7 +1,5 @@
-## SRM-NetLogin
-Automated Login API which automatically login into SRM Wifi
-
----
+# SRM-NetLogin
+___Automated Login API which automatically login into SRM Wifi___
 
 I built an Automated Login API which automatically login me to the SRM Wifi after connecting through a single click. It requires to set the SRM wifi username and password for just one time and it works individually.
 
@@ -29,7 +27,7 @@ usernameStr = ''
 passwordStr = ''
 ```
 
-- Then add the code to run the script _either with browser or browserless_ 
+- Then add the code to run the script _either with head or headless Browser_ 
 
 ```python
 # headless - without opening browser 
